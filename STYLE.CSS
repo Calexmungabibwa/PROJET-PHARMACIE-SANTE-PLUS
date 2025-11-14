@@ -18,7 +18,7 @@
             padding: 0 15px;
         }
         
-        /* AWA NDE SOKI OLINGI AU CHNANGE COULEUR TO ELOKO NA  navigation */
+        /* changement de couleur */
         header {
             background-color: #2a7f62;
             color: white;
@@ -76,7 +76,7 @@
             cursor: pointer;
         }
         
-        /* AWA EZA NIOSO */
+        /* tout */
         section {
             padding: 4rem 0;
         }
@@ -88,7 +88,7 @@
             font-size: 2rem;
         }
         
-        /* AWA PONA  Accueil  KAKA*/
+        /* Accueil  */
         #accueil {
             background: linear-gradient(rgba(42, 127, 98, 0.8), rgba(42, 127, 98, 0.8)), url('https://images.unsplash.com/photo-1585435557343-3b092031d5ad?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1200&q=80') center/cover no-repeat;
             color: white;
@@ -143,7 +143,7 @@
             font-weight: 500;
         }
         
-        /* PONA  Produits */
+        /* Produits */
         .categories {
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
@@ -257,7 +257,7 @@
             background-color: #1e6b52;
         }
         
-        /* PONA  Équipe NAYO */
+        /*  Équipe */
         .team-grid {
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
@@ -307,7 +307,7 @@
             box-shadow: 0 4px 8px rgba(0,0,0,0.1);
         }
         
-        /* PONA  Conseils */
+        /* Conseils */
         .blog-grid {
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
@@ -394,7 +394,7 @@
             cursor: pointer;
         }
         
-        /* PONA NIOSO  */
+        /* pour tout  */
         .accessibility {
             background-color: #e8f5e9;
             padding: 3rem 0;
@@ -461,7 +461,7 @@
             border-bottom: 1px solid #eee;
         }
         
-        /* PONA MBA Client */
+        /* Client */
         .client-dashboard {
             background-color: white;
             padding: 2rem;
@@ -501,7 +501,7 @@
             text-align: center;
         }
         
-        /* PONA Contact */
+        /*  Contact */
         .contact-container {
             display: grid;
             grid-template-columns: 1fr 1fr;
@@ -565,7 +565,7 @@
             resize: vertical;
         }
         
-        /* SUKA YA SITE NAYO  */
+        /* chill  */
         footer {
             background-color: #2a7f62;
             color: white;
@@ -608,7 +608,7 @@
             border-top: 1px solid rgba(255,255,255,0.1);
         }
         
-        /*  PONA SITE NAYO EZALA ADAPTE NA ECRAT NIOSO NDE CODE NA NGO OYO*/
+        /*  accecible a l'ecran*/
         @media (max-width: 768px) {
             .mobile-menu-btn {
                 display: block;
@@ -654,4 +654,4 @@
                 padding: 0.7rem;
             }
         }
-        /* AWA NDE ESILI PONA KO EXPLIQUER EZA FACILE OMONI SI */
+        /* fin */
